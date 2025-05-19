@@ -1,0 +1,2 @@
+# fletchers-decree
+Software standards
